@@ -61,4 +61,4 @@
 * *2 hours* CNN development
 
 ### 13 Oct 2019
-* *4 hours* CNN development
+* *4.5 hours* CNN development
