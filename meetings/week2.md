@@ -1,4 +1,3 @@
-## 4 Oct 2019
 ## Week 2 - 4 Oct 2019 - Roderick Murray-Smith
 
 ### Preparation
