@@ -1,5 +1,11 @@
 ## 26 Sep 2019
 
+## Preparation
+
+N/A
+
+## Minutes
+
 ### Francesco Tonolini
 
 * First task is to build a Deterministic Convolutional Neural Network
