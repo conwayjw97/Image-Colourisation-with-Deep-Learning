@@ -1,13 +1,12 @@
-Week 1 - 26 Sep 2019
+## Week 1 - 26 Sep 2019
 
-## Preparation
+### Preparation
 
 N/A
 
-## Minutes
+### Minutes
 
-### Francesco Tonolini
-
+Francesco Tonolini
 * First task is to build a Deterministic Convolutional Neural Network
 * Ideally should be working by week 4
 * Deterministic, so no analysis like Bayesian inference and should always give the same output for a given input
