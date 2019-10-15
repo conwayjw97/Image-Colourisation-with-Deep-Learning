@@ -62,3 +62,8 @@
 
 ### 13 Oct 2019
 * *4.5 hours* CNN development
+
+## Week 4
+
+### 15 Oct 2019
+* *3.5 hours* CNN development
