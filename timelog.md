@@ -72,4 +72,4 @@
 * *3 hours* Flowers CNN development
 
 ### 17 Oct 2019
-* *1 hours* Flowers CNN development
+* *2 hours* Flowers CNN development
