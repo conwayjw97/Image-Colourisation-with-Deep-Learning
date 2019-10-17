@@ -7,3 +7,6 @@
 * Plotted the loss for both training and testing images 
 * Tried using a higher resolution dataset with images that conform to a more specific category (flowers)
 * Noticed considerable validation improvement with flower dataset
+* Set up Github repository
+
+### Minutes
