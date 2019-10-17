@@ -45,28 +45,31 @@
 ## Week 3
 
 ### 7 Oct 2019
-* *4 hours* CNN development
+* *4 hours* Cifar10 CNN development
 
 ### 8 Oct 2019
-* *4.5 hours* CNN development
+* *4.5 hours* Cifar10 CNN development
 
 ### 9 Oct 2019
-* *0.5 hour* CNN development
+* *0.5 hour* Cifar10 CNN development
 
 ### 11 Oct 2019
 * *0.5 hour* meeting
-* *1 hour* CNN development
+* *1 hour* Cifar10 CNN development
 
 ### 12 Oct 2019
-* *2 hours* CNN development
+* *2 hours* Cifar10 CNN development
 
 ### 13 Oct 2019
-* *4.5 hours* CNN development
+* *4.5 hours* Cifar10 CNN development
 
 ## Week 4
 
 ### 15 Oct 2019
-* *3.5 hours* CNN development
+* *3.5 hours* Cifar10 CNN development
 
 ### 16 Oct 2019
-* *3 hours* CNN development
+* *3 hours* Flowers CNN development
+
+### 17 Oct 2019
+* *1 hours* Flowers CNN development
