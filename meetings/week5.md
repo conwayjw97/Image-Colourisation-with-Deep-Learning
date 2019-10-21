@@ -7,7 +7,7 @@
 * Plotted the loss for both training and testing images 
 * Tried using a higher resolution dataset with images that conform to a more specific category (flowers)
 * Noticed considerable validation improvement with flower dataset
-* Investigated impact of increasing convolutional filters
+* Noticed positive impact of increasing number of convolutional filters
 * Investigated getting the notebook to run on local GPU
 * Couldn't use Colab to train large enough datasets (tf_flowers takes max 800)
 * Set up Github repository
