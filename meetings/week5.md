@@ -9,6 +9,7 @@
 * Noticed considerable validation improvement with flower dataset
 * Investigated impact of increasing convolutional filters
 * Investigated getting the notebook to run on local GPU
+* Couldn't use Colab to train large enough datasets (tf_flowers takes max 800)
 * Set up Github repository
 
 ### Minutes
