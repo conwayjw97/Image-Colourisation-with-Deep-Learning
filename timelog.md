@@ -73,3 +73,8 @@
 
 ### 17 Oct 2019
 * *2 hours* Flowers CNN development
+
+## Week 5
+
+### 21 Oct 2019
+* *6 hours* Celeb Face CNN development + Paper reading
