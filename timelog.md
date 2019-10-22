@@ -78,3 +78,6 @@
 
 ### 21 Oct 2019
 * *6 hours* Celeb Face CNN development + Paper reading
+
+### 22 Oct 2019
+* *0.5 hours* Francesco meeting
