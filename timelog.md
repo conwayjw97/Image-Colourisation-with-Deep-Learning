@@ -81,3 +81,6 @@
 
 ### 22 Oct 2019
 * *0.5 hours* Francesco meeting
+
+### 24 Oct 2019
+* *2 hours* CNN output gathering
