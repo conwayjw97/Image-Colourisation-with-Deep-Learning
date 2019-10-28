@@ -84,3 +84,9 @@
 
 ### 24 Oct 2019
 * *2 hours* CNN output gathering
+
+### 26 Oct 2019
+* *2 hours* Modifying CNN to load by batches
+
+### 27 Oct 2019
+* *1 hour* Modifying CNN to load by batches
