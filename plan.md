@@ -1,21 +1,21 @@
 # Plan
 
-* PROJECT TITLE
-* YOUR NAME
-* STUDENT ID
-* SUPERVISOR NAME
+* Inverse problems and generative models for image restoration and colourization
+* James Conway
+* 2247492
+* Roderick Murray-Smith
 
 Week-by-week plan for the whole project. Update this as you go along.
 
 ## Winter semester
 
 * **Week 1** Gather articles/reading material, Learn TensorFlow, Develop timeline
-* **Week 2** Submit summary of work done over summer, Gather/Study articles/reading material, Finish inverse problem, Learn TensorFlow
-* **Week 3** Gather/Study articles/reading material, Learn TensorFlow
-* **Week 4** Gather/Study articles/reading material, Learn TensorFlow, Discrete convolutional neural network milestone
-* **Week 5** Develop codebase
-* **Week 6** Develop codebase
-* **Week 7** Develop codebase
+* **Week 2** Submit summary of work done over summer, Gather/Study articles/reading material, Develop CNN
+* **Week 3** Read Hands-On Machine Learning, Develop CNN
+* **Week 4** Working CNN milestone
+* **Week 5** Gather CNN Outputs
+* **Week 6** Get CNN to work with all cifar10
+* **Week 7** Find optimal CNN model for cifar10
 * **Week 8** Develop codebase
 * **Week 9** Develop codebase
 * **Week 10** Develop codebase, Write status report
