@@ -90,3 +90,9 @@
 
 ### 27 Oct 2019
 * *1 hour* Modifying CNN to load by batches
+
+## Week 6
+
+### 30 Oct 2019
+* *3 hours* Modifying CNN to show feature activation for each layer
+
