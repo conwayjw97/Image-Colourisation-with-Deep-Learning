@@ -95,4 +95,4 @@
 
 ### 30 Oct 2019
 * *3 hours* Modifying CNN to show feature activation for each layer
-
+* *0.5 hours* Francesco meeting
