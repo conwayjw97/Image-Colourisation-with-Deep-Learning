@@ -6,3 +6,9 @@
 * Worked on even shallower CNN models in order to find an optimal model for the cifar10 dataset, all models so far result in overfitting before they're able to produce sufficient outputs for the validation images, Francesco believes this is caused by an excess of parameters even for the shallow model
 
 ### Minutes
+* Make a start on your report, start with the introduction and lit review
+* Talk about colourization as an Inverse Problem and why you would use CNN's to solve it
+* Look at how previous projects have approached the problem and what results they acheived with their methods 
+* Have a look at the work that Zeynep Akata from Tubingen University did on her bird image project
+* Talk about how modifying the CNN's hyperparameters, model, and dataset has an impact on the result 
+* Investigate other potential sources of side information can assist the CNN, considering the potential candidates
