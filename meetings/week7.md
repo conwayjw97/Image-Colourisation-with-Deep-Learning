@@ -10,5 +10,5 @@
 * Talk about colourization as an Inverse Problem and why you would use CNN's to solve it
 * Look at how previous projects have approached the problem and what results they acheived with their methods 
 * Talk about how modifying the CNN's hyperparameters, model, and dataset has an impact on the result 
-* Investigate other potential sources of side information can assist the CNN, considering the potential candidates
+* Investigate how other potential sources of side information can assist the CNN, considering the potential candidates
 * As an example of using side information to assist a CNN, have a look at the work that Zeynep Akata from Tubingen University did on her bird image project http://proceedings.mlr.press/v48/reed16.pdf
