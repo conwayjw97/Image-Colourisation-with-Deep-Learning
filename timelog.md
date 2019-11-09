@@ -105,3 +105,7 @@
 
 ### 5 Nov 2019
 * *4 hours* Developing new CNN models which can better generalize
+
+### 8 Nov 2019
+* *0.5 hours* Supervisor meeting
+* *0.5 hours* Planning dissertation
