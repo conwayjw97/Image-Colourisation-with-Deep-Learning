@@ -109,3 +109,12 @@
 ### 8 Nov 2019
 * *0.5 hours* Supervisor meeting
 * *0.5 hours* Planning dissertation
+
+## Week 8
+
+### 12 Nov 2019
+* *3 hours* Reading papers
+* *2 hours* Dissertation writing
+
+### 14 Nov 2019
+* *3 hours* CNN remodelling
