@@ -1,4 +1,4 @@
-## Week 7 - 7 Nov 2019 - Roderick Murray-Smith & Francesco Tonnolini
+## Week 7 - 7 Nov 2019 - Roderick Murray-Smith
 
 ### Preparation
 * Managed to get Colab to load all 50'000 sample images from cifar10 using the fit_generator method with a custom image loader function
