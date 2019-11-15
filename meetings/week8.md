@@ -7,3 +7,6 @@
 * Remodelled CNN to have a bottle neck in the central layer
 
 ### Minutes
+* Fill in application to use gpu cluster
+* Look into other potential applications of colourization to add to the motivation for your report
+* Dedicate a section of your report to the algebra of an inverse problem
