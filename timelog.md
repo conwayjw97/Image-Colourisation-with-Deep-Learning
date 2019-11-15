@@ -118,3 +118,6 @@
 
 ### 14 Nov 2019
 * *3 hours* CNN remodelling
+
+### 15 Nov 2019
+* *0.5 hours* Supervisor meeting
