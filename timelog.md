@@ -131,4 +131,4 @@
 * *2 hours* Classification CNN research + implementation
 
 ### 21 Nov 2019
-* *3 hours* Classification CNN implementation
+* *3 hours* Classification CNN implementation + Dissertation writing
