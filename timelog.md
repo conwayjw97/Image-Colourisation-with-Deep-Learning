@@ -124,3 +124,11 @@
 
 ### 16 Nov 2019
 * *3 hours* CNN data augmenting
+
+## Week 9
+
+### 18 Nov 2019
+* *2 hours* Classification CNN research + implementation
+
+### 21 Nov 2019
+* *3 hours* Classification CNN implementation
