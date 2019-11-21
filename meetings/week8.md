@@ -1,4 +1,4 @@
-## Week 8 - 14 Nov 2019 - Roderick Murray-Smith & Francesco Tonnolini
+## Week 8 - 14 Nov 2019 - Roderick Murray-Smith
 
 ### Progress
 * Made a start on abstract and introduction of my report
