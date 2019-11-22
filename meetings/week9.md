@@ -7,3 +7,4 @@ Progress
  * Wrote code to save and load trained models
 
 Minutes
+* Explore weight penalties, batch reg, L2, dropout
