@@ -132,3 +132,7 @@
 
 ### 21 Nov 2019
 * *3 hours* Classification CNN implementation + Dissertation writing
+
+
+### 22 Nov 2019
+* *4 hours* Classification + Colourisation CNN implementation
