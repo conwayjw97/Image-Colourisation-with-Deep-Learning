@@ -138,3 +138,12 @@
 
 ### 23 Nov 2019
 * *1 hours* Classification + Colourisation CNN implementation
+
+## Week 10
+
+
+### 27 Nov 2019
+* *0.5 hours* Francesco meeting
+
+### 28 Nov 2019
+* *3 hours* Colourisation CNN refining
