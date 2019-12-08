@@ -141,9 +141,17 @@
 
 ## Week 10
 
-
 ### 27 Nov 2019
 * *0.5 hours* Francesco meeting
 
 ### 28 Nov 2019
 * *3 hours* Colourisation CNN refining
+
+## Week 11
+
+### 3 Dec 2019
+* *3 hours* Colourisation CNN refining
+
+### 6 Dec 2019
+* *0.5 hours* Francesco meeting
+* *1 hours* Colourisation CNN refining
