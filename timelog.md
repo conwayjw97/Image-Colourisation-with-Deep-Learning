@@ -155,3 +155,17 @@
 ### 6 Dec 2019
 * *0.5 hours* Francesco meeting
 * *1 hours* Colourisation CNN refining
+
+## Week 12
+
+### 13 Dec 2019
+* *3 hours* Colourisation CNN refining
+
+## Week 13
+
+### 16 Dec 2019
+* *4 hours* Colourisation GAN development
+
+### 17 Dec 2019
+* *4 hours* Colourisation GAN development
+
