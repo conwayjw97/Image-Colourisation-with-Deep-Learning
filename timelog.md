@@ -167,5 +167,5 @@
 * *4 hours* Colourisation GAN development
 
 ### 17 Dec 2019
-* *4 hours* Colourisation GAN development
+* *5 hours* Colourisation GAN development
 
