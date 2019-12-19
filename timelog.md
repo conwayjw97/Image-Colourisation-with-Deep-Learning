@@ -171,3 +171,4 @@
 
 ### 19 Dec 2019
 * *3 hours* Status report writing
+* *3 hours* VAE research and development
