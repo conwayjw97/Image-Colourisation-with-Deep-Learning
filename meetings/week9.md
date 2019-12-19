@@ -1,4 +1,4 @@
-## Week 8 - 22 Nov 2019 - Roderick Murray-Smith 
+## Week 9 - 22 Nov 2019 - Roderick Murray-Smith 
 
 ### Progress
 * Filled in application to use gpu cluster
