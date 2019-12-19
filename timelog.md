@@ -169,3 +169,5 @@
 ### 17 Dec 2019
 * *5 hours* Colourisation GAN development
 
+### 19 Dec 2019
+* *3 hours* Status report writing
