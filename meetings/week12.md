@@ -3,7 +3,7 @@
 ### Progress
 * Implemented dataset pruning through image categorisation
 * Wrote status report
-* Researched GAN and VAE implementation
+* Studied GAN and VAE implementation
 * Tried GAN implementation
 
 ### Minutes
