@@ -172,3 +172,9 @@
 ### 19 Dec 2019
 * *3 hours* Status report writing
 * *3 hours* VAE research and development
+
+## Christmas
+
+
+### 1 Jan 2020
+* *3.5 hours*  VAE + GAN development
