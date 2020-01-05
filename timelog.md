@@ -178,3 +178,9 @@
 
 ### 1 Jan 2020
 * *3.5 hours*  VAE + GAN development
+
+### 4 Jan 2020
+* *4 hours* GAN development
+
+### 5 Jan 2020
+* *3 hours* GAN development
