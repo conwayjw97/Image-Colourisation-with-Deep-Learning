@@ -187,3 +187,6 @@
 
 ### 8 Jan 2020
 * *3 hours* VAE development
+
+### 10 Jan 2020
+* *2 hours* VAE development
