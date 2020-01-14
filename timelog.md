@@ -175,7 +175,6 @@
 
 ## Christmas
 
-
 ### 1 Jan 2020
 * *3.5 hours*  VAE + GAN development
 
@@ -191,3 +190,7 @@
 ### 10 Jan 2020
 * *2 hours* VAE development
 * *1.5 hours* GAN development
+
+## Week 13
+* *3 hours* GAN development
+* *0.5 hours* Francesco meeting
