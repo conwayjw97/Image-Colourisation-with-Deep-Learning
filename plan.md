@@ -26,14 +26,14 @@ Week-by-week plan for the whole project. Update this as you go along.
 
 ## Spring Semester
 
-* **Week 13**
-* **Week 14**
-* **Week 15**
-* **Week 16**
-* **Week 17**
-* **Week 19**
-* **Week 20**
-* **Week 21**
-* **Week 22**
+* **Week 13** Finish GAN and VAE
+* **Week 14** Finish GAN and VAE
+* **Week 15** Finish GAN and VAE
+* **Week 16** Collect network evaluations to compare parameters/models/dataset for the report
+* **Week 17** Finish gathering literature to cite and discuss on report.
+* **Week 19** Report first draft writing.
+* **Week 20** Report first draft writing.
+* **Week 21** Report rewriting and polishing.
+* **Week 22** Report rewriting and polishing.
 * **Week 23 [TERM ENDS]**
 * **Week 24** Dissertation submission deadline and presentations.
