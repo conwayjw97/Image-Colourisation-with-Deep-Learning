@@ -192,5 +192,10 @@
 * *1.5 hours* GAN development
 
 ## Week 13
+
+### 12 Jan 2020
 * *3 hours* GAN development
 * *0.5 hours* Francesco meeting
+
+### 16 Jan 2020
+* *2 hours* GAN development
