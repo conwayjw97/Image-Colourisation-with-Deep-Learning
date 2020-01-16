@@ -15,12 +15,12 @@ Week-by-week plan for the whole project. Update this as you go along.
 * **Week 4** Working CNN milestone
 * **Week 5** Gather CNN Outputs
 * **Week 6** Get CNN to work with all cifar10
-* **Week 7** Find optimal CNN model for cifar10
-* **Week 8** Develop codebase
-* **Week 9** Develop codebase
-* **Week 10** Develop codebase, Write status report
-* **Week 11 [PROJECT WEEK]** Develop codebase, Write status report
-* **Week 12 [PROJECT WEEK]** Develop codebase, Finish product, Status report submitted.
+* **Week 7** Investigate other datasets to use with cifar10
+* **Week 8** Find optimal base CNN model 
+* **Week 9** Investigate regularization methods to improve CNN model
+* **Week 10** Research GAN and VAE methods for colourization
+* **Week 11 [PROJECT WEEK]** Develop codebase, Research, Write status report
+* **Week 12 [PROJECT WEEK]** Develop codebase, Research, Status report submitted.
 
 ## Winter break
 
