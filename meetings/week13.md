@@ -9,3 +9,4 @@
 * Have the beginnings of a VAE implementation which can train but isn't producing a satisfactory result
 
 ### Minutes
+* Investigate datasets which have clear visual indicators to hint at how the image should be colourised, e.g. football players with team tags, soldiers with particular helmets, nature scenes whihc kinds of trees, or more simply checkerboards with customised symbols to indicate colour
