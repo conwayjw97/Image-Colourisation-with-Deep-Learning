@@ -199,3 +199,7 @@
 
 ### 16 Jan 2020
 * *2 hours* GAN development
+
+### 17 Jan 2020
+* *0.5 hours* Roderick meeting
+* *1 hors* Dataset research
