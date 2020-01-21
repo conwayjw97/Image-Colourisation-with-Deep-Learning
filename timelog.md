@@ -202,4 +202,10 @@
 
 ### 17 Jan 2020
 * *0.5 hours* Roderick meeting
+
+## Week 14
+
+### 21 Jan 2020
+* *0.5 hours* Francesco meeting
+* *2 hours* Imagenette dataset preparing
 * *1 hors* Dataset research
