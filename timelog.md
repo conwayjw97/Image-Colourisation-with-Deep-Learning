@@ -169,3 +169,37 @@
 ### 17 Dec 2019
 * *5 hours* Colourisation GAN development
 
+### 19 Dec 2019
+* *3 hours* Status report writing
+* *3 hours* VAE research and development
+
+## Christmas
+
+### 1 Jan 2020
+* *3.5 hours*  VAE + GAN development
+
+### 4 Jan 2020
+* *4 hours* GAN development
+
+### 5 Jan 2020
+* *3.5 hours* GAN development
+
+### 8 Jan 2020
+* *3 hours* VAE development
+
+### 10 Jan 2020
+* *2 hours* VAE development
+* *1.5 hours* GAN development
+
+## Week 13
+
+### 12 Jan 2020
+* *3 hours* GAN development
+* *0.5 hours* Francesco meeting
+
+### 16 Jan 2020
+* *2 hours* GAN development
+
+### 17 Jan 2020
+* *0.5 hours* Roderick meeting
+* *1 hors* Dataset research

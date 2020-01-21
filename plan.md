@@ -15,25 +15,25 @@ Week-by-week plan for the whole project. Update this as you go along.
 * **Week 4** Working CNN milestone
 * **Week 5** Gather CNN Outputs
 * **Week 6** Get CNN to work with all cifar10
-* **Week 7** Find optimal CNN model for cifar10
-* **Week 8** Develop codebase
-* **Week 9** Develop codebase
-* **Week 10** Develop codebase, Write status report
-* **Week 11 [PROJECT WEEK]** Develop codebase, Write status report
-* **Week 12 [PROJECT WEEK]** Develop codebase, Finish product, Status report submitted.
+* **Week 7** Investigate other datasets to use with cifar10
+* **Week 8** Find optimal base CNN model 
+* **Week 9** Investigate regularization methods to improve CNN model
+* **Week 10** Research GAN and VAE methods for colourization
+* **Week 11 [PROJECT WEEK]** Develop codebase, Research, Write status report
+* **Week 12 [PROJECT WEEK]** Develop codebase, Research, Status report submitted.
 
 ## Winter break
 
 ## Spring Semester
 
-* **Week 13**
-* **Week 14**
-* **Week 15**
-* **Week 16**
-* **Week 17**
-* **Week 19**
-* **Week 20**
-* **Week 21**
-* **Week 22**
+* **Week 13** Finish GAN and VAE
+* **Week 14** Finish GAN and VAE
+* **Week 15** Finish GAN and VAE
+* **Week 16** Collect network evaluations to compare parameters/models/dataset for the report
+* **Week 17** Finish gathering literature to cite and discuss on report.
+* **Week 19** Report first draft writing.
+* **Week 20** Report first draft writing.
+* **Week 21** Report rewriting and polishing.
+* **Week 22** Report rewriting and polishing.
 * **Week 23 [TERM ENDS]**
 * **Week 24** Dissertation submission deadline and presentations.
