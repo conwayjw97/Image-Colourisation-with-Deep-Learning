@@ -209,3 +209,9 @@
 * *0.5 hours* Francesco meeting
 * *2 hours* Imagenette dataset preparing
 * *1 hors* Dataset research
+
+### 23 Jan 2020
+* *2 hours* Imagenette dataset implementation
+
+### 24 Jan 2020
+* *2 hours* CVAE implementation
