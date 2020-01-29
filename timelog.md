@@ -224,3 +224,7 @@
 
 ### 28 Jan 2020
 * *3 hours* CVAE implementation
+
+### 28 Jan 2020
+* *3 hours* CVAE implementation
+* *2 hours* Dissertation writing
