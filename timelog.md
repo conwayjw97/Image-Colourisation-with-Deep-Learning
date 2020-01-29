@@ -221,3 +221,6 @@
 
 ### 26 Jan 2020
 * *2 hours* CVAE implementation
+
+### 28 Jan 2020
+* *3 hours* CVAE implementation
