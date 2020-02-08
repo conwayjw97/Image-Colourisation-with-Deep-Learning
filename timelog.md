@@ -247,3 +247,4 @@
 
 ### 8 Feb 2020
 * *3 hours* Dissertation writing
+* *1.5 hours* Autoencoder implementation
