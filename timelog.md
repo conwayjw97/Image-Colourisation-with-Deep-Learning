@@ -248,3 +248,13 @@
 ### 8 Feb 2020
 * *3 hours* Dissertation writing
 * *1.5 hours* Autoencoder implementation
+
+
+## Week 17
+
+### 11 Feb 2020
+* *1 hours* Francesco meeting
+* *2 hours* CVAE implementation
+
+### 13 Feb 2020
+* *3 hours* Dissertation writing
