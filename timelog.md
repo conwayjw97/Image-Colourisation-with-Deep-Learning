@@ -261,3 +261,9 @@
 
 ### 14 Feb 2020
 * *5 hours* CVAE implementation
+
+
+## Week 18
+
+### 20 Feb 2020
+* *1 hours* Francesco meeting
