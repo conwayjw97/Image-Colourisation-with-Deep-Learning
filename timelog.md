@@ -262,8 +262,13 @@
 ### 14 Feb 2020
 * *5 hours* CVAE implementation
 
+### 16 Feb 2020
+* *2 hours* Dissertation writing
 
 ## Week 18
+
+### 18 Feb 2020
+* *2 hours* Dissertation writing
 
 ### 20 Feb 2020
 * *1 hours* Francesco meeting
