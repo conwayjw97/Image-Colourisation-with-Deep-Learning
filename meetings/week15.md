@@ -1,4 +1,4 @@
-## Week 15 - 17 Jan 2020 - Roderick Murray-Smith 
+## Week 15 - 31 Jan 2020 - Roderick Murray-Smith 
 
 ### Progress
 * Decided on structure of dissertation
