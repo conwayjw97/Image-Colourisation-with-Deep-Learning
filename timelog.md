@@ -272,3 +272,4 @@
 
 ### 20 Feb 2020
 * *1 hours* Francesco meeting
+* *3.5 hours* CVAE implementation
