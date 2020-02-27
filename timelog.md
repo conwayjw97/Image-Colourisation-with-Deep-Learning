@@ -288,3 +288,6 @@
 
 ### 26 Feb 2020
 * *9 hours* Dissertation writing
+
+### 27 Feb 2020
+* *3 hours* Notebook cleanup
