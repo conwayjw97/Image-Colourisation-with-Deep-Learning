@@ -1,4 +1,4 @@
-## Week 19 - 27 Feb 2020 - Roderick Murray-Smith 
+## Week 19 - 28 Feb 2020 - Roderick Murray-Smith 
 
 ### Progress
 * CVAE now capable of providing diverse colourisation
