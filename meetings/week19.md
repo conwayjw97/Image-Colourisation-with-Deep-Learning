@@ -10,3 +10,4 @@
 ### Minutes
 * A simpler symbol set is enough to demonstrate each network's use of priors (symbol in a box)
 * Symbol set should also make use of different shades
+* Fix Latex math writing to have appropriate punctutation
