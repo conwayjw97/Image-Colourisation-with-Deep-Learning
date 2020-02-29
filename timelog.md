@@ -293,4 +293,8 @@
 * *3 hours* Notebook cleanup
 
 ### 28 Feb 2020
+* *0.5 hours* Roderick meeting
+* *1 hours* Notebook cleanup
+
+### 29 Feb 2020
 * *5 hours* Dissertation writing
