@@ -298,3 +298,6 @@
 
 ### 29 Feb 2020
 * *5 hours* Dissertation writing
+
+### 1 March 2020
+* *6 hours* Dissertation writing
