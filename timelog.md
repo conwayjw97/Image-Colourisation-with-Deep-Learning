@@ -301,3 +301,11 @@
 
 ### 1 March 2020
 * *6 hours* Dissertation writing
+
+## Week 20
+
+### 2 March 2020
+* *6 hours* Dissertation writing
+
+### 3 March 2020
+* *8 hours* Dissertation writing
