@@ -11,3 +11,4 @@
 * Add citations for the KL divergence for people who want to learn more
 * Look into graph generation tools for Keras that could better show network structure on the report
 * Do a comparison of different optimisers with different learning rates
+* Make sure graphs on the report have axis labels
