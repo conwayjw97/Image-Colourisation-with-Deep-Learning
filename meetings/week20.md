@@ -10,3 +10,4 @@
 * Go into more detail about the impact that GAN being time consuming had
 * Add citations for the KL divergence for people who want to learn more
 * Look into graph generation tools for Keras that could better show network structure on the report
+* Do a comparison of different optimisers with different learning rates
