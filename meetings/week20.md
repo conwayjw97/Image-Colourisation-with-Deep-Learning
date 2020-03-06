@@ -5,3 +5,8 @@
 * Wrote implementation section of draft
 
 ### Minutes
+* Look into Float Barriers to tidy up image placement on the report
+* Explain the tanh's gradients better with a graph to demonstrate
+* Go into more detail about the impact that GAN being time consuming had
+* Add citations for the KL divergence for people who want to learn more
+* Look into graph generation tools for Keras that could better show network structure on the report
