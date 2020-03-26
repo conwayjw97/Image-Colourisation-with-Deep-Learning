@@ -324,3 +324,12 @@
 
 ### 8 March 2020
 * *6 hours* Dissertation writing
+
+## Week 23
+
+### 25 March 2020
+* *2 hours* Dissertation writing
+
+### 26 March 2020
+* *4 hours* Dissertation writing
+
