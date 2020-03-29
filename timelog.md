@@ -333,3 +333,12 @@
 ### 26 March 2020
 * *4 hours* Dissertation writing
 
+### 27 March 2020
+* *7 hours* Dissertation writing
+
+### 28 March 2020
+* *6 hours* Dissertation writing
+
+### 29 March 2020
+* *11 hours* Dissertation writing
+
