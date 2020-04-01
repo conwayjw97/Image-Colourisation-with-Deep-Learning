@@ -328,10 +328,11 @@
 ## Week 23
 
 ### 25 March 2020
-* *2 hours* Dissertation writing
+* *2 hours* Code cleanup
 
 ### 26 March 2020
-* *4 hours* Dissertation writing
+* *1 hours* Code cleanup
+* *3 hours* Dissertation writing
 
 ### 27 March 2020
 * *7 hours* Dissertation writing
@@ -341,4 +342,15 @@
 
 ### 29 March 2020
 * *11 hours* Dissertation writing
+
+## Week 24
+
+### 30 March 2020
+* *11 hours* Dissertation writing
+
+### 30 March 2020
+* *10 hours* Dissertation writing
+
+### 1 April 2020
+* *8 hours* Dissertation writing
 
