@@ -353,4 +353,5 @@
 
 ### 1 April 2020
 * *8 hours* Dissertation writing
+* *2 hours* Repo and Code cleanup
 
