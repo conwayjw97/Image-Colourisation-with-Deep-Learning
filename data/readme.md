@@ -10,13 +10,13 @@ Contains the ShapeSet, Face images, and Imagenette datasets used to evaluate our
 
 All datasets used in this project respect the appropriate licencing: 
 
-Cifar-10 is an MIT licenced dataset: https://github.com/wichtounet/cifar-10
+* Cifar-10 is an MIT licenced dataset: https://github.com/wichtounet/cifar-10
 
-Face images was reused from the MIT licenced project: https://github.com/2014mchidamb/DeepColorization
+* Face images was reused from the MIT licenced project: https://github.com/2014mchidamb/DeepColorization
 
-Imagenette is an Apache 2.0 licenced dataset: https://github.com/fastai/imagenette
+* Imagenette is an Apache 2.0 licenced dataset: https://github.com/fastai/imagenette
 
-ShapeSet was made specifically for use on this project.
+* ShapeSet was made specifically for use on this project.
 
 * If you involved human subjects in any form, you will require ethical permission.
     * Keep records of all items related to ethics in `data/ethics`. There are templates for scripts, guidance provided.
