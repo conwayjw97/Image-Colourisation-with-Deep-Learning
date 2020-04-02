@@ -1,3 +1,5 @@
+![Colourisations](https://github.com/conwayjw97/Image-Colourisation-with-Deep-Learning/blob/master/dissertation/images/RepoPreview.png)
+
 # Guidance
 This is a suggested template for a project. You can modify it as you please, but
 but remember to keep:
