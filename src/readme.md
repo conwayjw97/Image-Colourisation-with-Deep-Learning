@@ -10,4 +10,4 @@ Each notebook corresponds to:
 
 * CVAE.ipynb: Convolutional Variational Autoencoder 
 
-Please see manual.md for more specific instructions on how to use the notebooks.
+Please see manual.md for more specific instructions on how to use these notebooks, including how to load pre-trained models into them, and how to train and test your own models.
