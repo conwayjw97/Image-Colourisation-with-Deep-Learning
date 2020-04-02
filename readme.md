@@ -1,4 +1,4 @@
-# Deep Learning Solutions to the Inverse Problem of Image Colourisation
+# Deep Learning Solutions for Image Colourisation
 
 ![Colourisations](https://github.com/conwayjw97/Image-Colourisation-with-Deep-Learning/blob/master/dissertation/images/RepoPreview.png)
 
