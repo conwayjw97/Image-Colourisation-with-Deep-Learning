@@ -2,8 +2,11 @@
 
 #### models/
 
+Contains the architecture and weights of the trained models that were used for the evaluations shown on the report. You can check manual.md within the src/ folder to learn how to load these models into the notebooks yourself.
+
 #### datasets/
 
+Contains the ShapeSet, Face images, and Imagenette datasets. Cifar-10 is not included here, as it is downloaded inside the notebooks through the use of dedicated Tensorflow function calls.
 
 * If you involved human subjects in any form, you will require ethical permission.
     * Keep records of all items related to ethics in `data/ethics`. There are templates for scripts, guidance provided.
