@@ -1,6 +1,6 @@
 ## Data
 
-#### datasets/
+### datasets/
 
 Contains the ShapeSet, Face images, and Imagenette datasets used to evaluate our models. Cifar-10 is not included here, as it is downloaded inside the notebooks through the use of dedicated Tensorflow function calls.
 
@@ -12,13 +12,13 @@ All third-party datasets were used in this project with respect for their corres
 
 * Imagenette is an Apache 2.0 licenced dataset: https://github.com/fastai/imagenette
 
-#### models/
+### models/
 
 Contains the layer architectures (.json), weights (.h5), and loss histories (.csv) of the trained models that were used for the evaluations shown on the report. 
 
 Please read manual.md within the src/ folder to learn how to load these models into the notebooks yourself.
 
-#### notebooks/
+### notebooks/
 
 Contains some small research centred notebooks which aren't particularly relevant to the overall project but which you might find use for.
 
