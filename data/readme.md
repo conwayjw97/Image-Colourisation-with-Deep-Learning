@@ -1,8 +1,8 @@
 ## Data
 
-#### Models
+#### models/
 
-#### Datasets
+#### datasets/
 
 
 * If you involved human subjects in any form, you will require ethical permission.
