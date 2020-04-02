@@ -1,5 +1,8 @@
 ## Data
-Keep your data (e.g. from evaluations here)
+
+### Models
+
+### Datasets
 
 
 * If you involved human subjects in any form, you will require ethical permission.
@@ -20,7 +23,4 @@ Keep your data (e.g. from evaluations here)
 * Write scripts to produced processed data from these (e.g. tidy dataframes, excel sheets, csv files, HDF5 files, sqlite databases)
 * Write scripts that process these into results, visualisations, tables that you include in your project.
 * If you use Jupyter/RStudio notebooks, place these in `data/notebooks` and name them carefully (not "Untitled1", "Untitled2").
-
-* You may need to remove the `data/` folder from version control if the data size is too large or you are bound by confidentiality.
-* If you do so **make sure you have good backups**
 
