@@ -293,3 +293,9 @@ textfont=it,tableposition=above]{caption}
       \parsep=1pt plus 1pt
       \itemsep=\parsep}
 
+\usepackage{textgreek}
+
+\setcitestyle{numbers}
+
+% Personal (James Conway) modifications
+\usepackage{float} 
