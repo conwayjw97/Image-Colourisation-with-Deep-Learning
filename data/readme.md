@@ -8,11 +8,11 @@ Contains the architecture and weights of the trained models that were used for t
 
 Contains the ShapeSet, Face images, and Imagenette datasets used to evaluate our models. Cifar-10 is not included here, as it is downloaded inside the notebooks through the use of dedicated Tensorflow function calls.
 
-All datasets used in this project respect the respect the appropriate licencing: 
+All datasets used in this project respect the appropriate licencing: 
 
 Cifar-10 is an MIT licenced dataset: https://github.com/wichtounet/cifar-10
 
-Face images was reused from the MIT licenced project: https://github.com/2014mchidamb/DeepColorization/tree/master/face_images
+Face images was reused from the MIT licenced project: https://github.com/2014mchidamb/DeepColorization
 
 Imagenette is an Apache 2.0 licenced dataset: https://github.com/fastai/imagenette
 
