@@ -17,10 +17,3 @@ All third-party datasets were used in this project with respect for their corres
 * Face images was reused from the MIT licenced project: https://github.com/2014mchidamb/DeepColorization
 
 * Imagenette is an Apache 2.0 licenced dataset: https://github.com/fastai/imagenette
-
-
-
-
-
-* If you use Jupyter/RStudio notebooks, place these in `data/notebooks` and name them carefully (not "Untitled1", "Untitled2").
-
