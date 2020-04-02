@@ -4,7 +4,7 @@
 
 Contains the ShapeSet, Face images, and Imagenette datasets used to evaluate our models. Cifar-10 is not included here, as it is downloaded inside the notebooks through the use of dedicated Tensorflow function calls.
 
-All third-party datasets were used in this project with respect for their corresponding licences: 
+All third-party datasets were used with respect for their corresponding licences: 
 
 * Cifar-10 is an MIT licenced dataset: https://github.com/wichtounet/cifar-10
 
