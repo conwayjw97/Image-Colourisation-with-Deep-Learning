@@ -359,3 +359,5 @@
 * *6 hours* Repo and Code cleanup
 * *3 hours* Presentation making
 
+### 3 April 2020
+* *11 hours* Dissertation rewriting and polishing
