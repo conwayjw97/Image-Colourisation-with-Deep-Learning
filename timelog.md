@@ -348,7 +348,7 @@
 ### 30 March 2020
 * *11 hours* Dissertation writing
 
-### 30 March 2020
+### 31 March 2020
 * *10 hours* Dissertation writing
 
 ### 1 April 2020
@@ -361,3 +361,10 @@
 
 ### 3 April 2020
 * *11 hours* Dissertation rewriting and polishing
+
+### 4 April 2020
+* *8 hours* Presentation making
+
+### 5 April 2020
+* *7 hours* Dissertation rewriting and polishing
+* *4 hours* Presentation making
