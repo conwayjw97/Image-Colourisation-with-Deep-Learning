@@ -26,11 +26,19 @@ This repository contains:
 
 To test or use any of these models yourself, navigate to the /src folder and follow the instructions in manual.md.
 
-### Learn About this Project
-
+### Learn More 
 To learn more about the project in detail and what its results were, watch the presentation video in /presentation. Or for a more detailed analysis, read the final report in /dissertation.
 
 ### Colourisation Results
+
+#### Cifar-10
+
 ![Cifar-10](https://github.com/conwayjw97/Image-Colourisation-with-Deep-Learning/blob/master/dissertation/images/Cifar10Eval.png)
+
+#### Faces
+
 ![Faces](https://github.com/conwayjw97/Image-Colourisation-with-Deep-Learning/blob/master/dissertation/images/FaceEval.png)
+
+#### Image-Nette
+
 ![ImageNette](https://github.com/conwayjw97/Image-Colourisation-with-Deep-Learning/blob/master/dissertation/images/ImagenetteEval.png)
