@@ -299,3 +299,4 @@ textfont=it,tableposition=above]{caption}
 
 % Personal (James Conway) modifications
 \usepackage{float} 
+\setcitestyle{square}
