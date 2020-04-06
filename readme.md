@@ -2,30 +2,8 @@
 
 ![Colourisations](https://github.com/conwayjw97/Image-Colourisation-with-Deep-Learning/blob/master/dissertation/images/RepoPreview.png)
 
-# Guidance
-This is a suggested template for a project. You can modify it as you please, but
-but remember to keep:
+This repository contains the code and data involved in the development of my final year dissertation project.
 
-* a timelog, updated regularly in the `timelog.md` format;
-* all source under version control;
-* data well organised and with appropriate ethical approval (for human subject data);
+## Project
 
-Here's an overview of the structure as it stands:
-
-* `timelog.md` The time log for your project.
-* `plan.md` A skeleton week-by-week plan for the project. 
-* `data/` data you acquire during the project
-* `src/` source code for your project
-* `status_report/` the status report submitted in December
-* `meetings/` Records of the meetings you have during the project.
-* `dissertation/` source and for your project dissertation
-* `presentation/` your presentation
-
-* Make sure you add a `.gitignore` or similar for your VCS for the tools you are using!
-* Add any appropriate continuous integration (e.g. Travis CI) in this directory.
-
-* Remove this `readme.md` file from any repository and replace it with something more appropriate!
-
-## Important
-* It should be easy to rebuild and run your project and your dissertation
-        * Include clear instructions in the relevant directories to make this possible
+Colourisation is a difficult and ambiguous problem, and a reliable solution for it needs to account for a significant amount of information. This project investigated the use of Deep Learning to solve the problem, which was chosen for its ability to generate solutions based on the analysis of large quantities of relevant data. In order to understand which Deep Learning methods were most capable of colourisation, we implemented three systems that seemed like the best candidates: A Convolutional Neural Network, a Generative Adversarial Network, and a Variational Autoencoder. We evaluated each one with the same colourisation tasks, and used the information we gathered to determine which was the most viable solution.
