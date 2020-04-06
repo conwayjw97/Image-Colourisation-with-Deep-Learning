@@ -2,10 +2,10 @@
 
 ### Background
 
-This project investigated the use of Deep Learning to solve the problem of image colourisation. In order to understand which Deep Learning methods were most capable of colourisation, we implemented three systems that seemed like the best candidates: 
+This project investigated the use of Deep Learning to solve the problem of image colourisation. In order to understand which Deep Learning methods were most capable of colourisation, we implemented three Deep Learning models that seemed like the best candidates. These were a: 
 * Convolutional Neural Network
-* Generative Adversarial Network
-* Variational Autoencoder
+* Convolutional Generative Adversarial Network
+* Convolutional Variational Autoencoder
 
 We evaluated each one with the same colourisation tasks, and used the information we gathered to determine which was the most viable solution.
 
