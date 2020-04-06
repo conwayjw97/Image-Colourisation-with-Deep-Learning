@@ -8,6 +8,7 @@ This project investigated the use of Deep Learning to solve the problem of image
 * Convolutional Neural Network
 * Generative Adversarial Network
 * Variational Autoencoder
+
 We evaluated each one with the same colourisation tasks, and used the information we gathered to determine which was the most viable solution.
 
 ### Overview
