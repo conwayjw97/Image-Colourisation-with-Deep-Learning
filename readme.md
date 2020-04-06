@@ -27,6 +27,6 @@ This repository contains:
 
 To test or use any of these models yourself, navigate to the /src folder and follow the instructions in manual.md.
 
-### Project Details
+### Learn About the Project
 
 To learn more about the project in detail and what its results were, watch the presentation video in /presentation. Or for a more detailed analysis, read the final report in /dissertation.
