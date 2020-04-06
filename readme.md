@@ -15,11 +15,10 @@ We evaluated each one with the same colourisation tasks, and used the informatio
 This repository contains:
 
 ```
-.
-├── data            (Datasets, trained models, research notebooks)
-├── dissertation    (LaTeX project for my dissertation report)
-├── meetings        (Meeting minutes with my supervisors)
-├── presentation    (Project presentation slides and video)
-├── src             (Main code notebooks)
-└── status_report   (Various reports on the progress of the project)
+/data            (Datasets, trained models, research notebooks)
+/dissertation    (LaTeX project for my dissertation report)
+/meetings        (Meeting minutes with my supervisors)
+/presentation    (Project presentation slides and video)
+/src             (Main code notebooks)
+/status_report   (Various reports on the progress of the project)
 ```
