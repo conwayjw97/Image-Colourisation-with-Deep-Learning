@@ -5,20 +5,24 @@
 ### Background
 
 This project investigated the use of Deep Learning to solve the problem of image colourisation. In order to understand which Deep Learning methods were most capable of colourisation, we implemented three systems that seemed like the best candidates: 
-* A Convolutional Neural Network
-* A Generative Adversarial Network
-* A Variational Autoencoder
+* Convolutional Neural Network
+* Generative Adversarial Network
+* Variational Autoencoder
 We evaluated each one with the same colourisation tasks, and used the information we gathered to determine which was the most viable solution.
 
 ### Overview
 
 This repository contains:
-
 ```
 /data            (Datasets, trained models, research notebooks)
-/dissertation    (LaTeX project for my dissertation report)
+/dissertation    (Final LaTeX report from April 2020)
 /meetings        (Meeting minutes with my supervisors)
 /presentation    (Project presentation slides and video)
 /src             (Main code notebooks)
-/status_report   (Various reports on the progress of the project)
+/status_report   (Progress report from December 2019)
+/status_report   (Progress report from Summer 2019)
 ```
+
+### Usage
+
+To test or use any of these models yourself, navigate to the /src folder and follow the instructions in manual.md.
