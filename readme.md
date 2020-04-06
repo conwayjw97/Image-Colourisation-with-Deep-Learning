@@ -1,6 +1,7 @@
 # Deep Learning Solutions for Image Colourisation
 
 ![Colourisations](https://github.com/conwayjw97/Image-Colourisation-with-Deep-Learning/blob/master/dissertation/images/RepoPreview.png)
+![ased](https://github.com/conwayjw97/Image-Colourisation-with-Deep-Learning/blob/master/dissertation/images/Cifar10Eval.png)
 
 ### Background
 
