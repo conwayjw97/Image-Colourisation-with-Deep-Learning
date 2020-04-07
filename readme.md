@@ -1,4 +1,6 @@
-# Deep Learning Solutions for Image Colourisation
+# Image-Colourisation-with-Deep-Learning
+
+Undergraduate Year 4 Individual Dissertation - "Deep Learning Methods to Solve the Inverse Problem of Artificial Image Colourisation"
 
 ## Background
 
