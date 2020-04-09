@@ -35,8 +35,14 @@ To learn more about the project in detail and what its results were, watch the p
 
 The following are results from each model on unseen images.
 
+### Cifar-10
+
 ![Cifar-10](https://github.com/conwayjw97/Image-Colourisation-with-Deep-Learning/blob/master/dissertation/images/Cifar10Eval.png)
 
+### Faces
+
 ![Faces](https://github.com/conwayjw97/Image-Colourisation-with-Deep-Learning/blob/master/dissertation/images/FaceEval.png)
+
+### ImageNette
 
 ![ImageNette](https://github.com/conwayjw97/Image-Colourisation-with-Deep-Learning/blob/master/dissertation/images/ImagenetteEval.png)
