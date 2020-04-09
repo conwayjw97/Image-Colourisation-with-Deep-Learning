@@ -33,6 +33,8 @@ To learn more about the project in detail and what its results were, watch the p
 
 ## Colourisation Results
 
+The following are results from each model on unseen images.
+
 ![Cifar-10](https://github.com/conwayjw97/Image-Colourisation-with-Deep-Learning/blob/master/dissertation/images/Cifar10Eval.png)
 
 ![Faces](https://github.com/conwayjw97/Image-Colourisation-with-Deep-Learning/blob/master/dissertation/images/FaceEval.png)
