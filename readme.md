@@ -29,7 +29,7 @@ This repository contains:
 To test or use any of these models yourself, navigate to the */src* folder and follow the instructions in manual.md.
 
 ## Learn More 
-To learn more about the project in detail and what its results were, watch the presentation video in */presentation*. Or for a more detailed analysis of the project and its results, read the final report in */dissertation*.
+To learn more about the project in detail, watch the presentation video */presentation/Presentation.mp4*. Or for a more detailed written analysis, read the final report */dissertation/report.pdf*.
 
 ## Colourisation Results
 
