@@ -21,7 +21,7 @@ This repository contains:
 /presentation    (Project presentation slides and video)
 /src             (Main code notebooks)
 /status_report   (Progress report from December 2019)
-/status_report   (Progress report from Summer 2019)
+/summer   (Progress report from Summer 2019)
 ```
 
 ## Usage
